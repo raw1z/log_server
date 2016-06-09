@@ -1,4 +1,3 @@
-require 'eventmachine'
 require 'observer'
 require 'ap'
 require 'socket'
